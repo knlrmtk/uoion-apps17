@@ -6,7 +6,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.uoion</groupId>
-    <artifactId>apps15</artifactId>
+    <artifactId>apps17</artifactId>
     <version>1.0</version>
     <packaging>war</packaging>
 
@@ -28,7 +28,7 @@
     </dependencies>
 
     <build>
-        <finalName>apps15</finalName>
+        <finalName>apps17</finalName>
 
         <plugins>
 
