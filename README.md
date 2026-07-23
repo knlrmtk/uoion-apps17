@@ -1,6 +1,8 @@
-# uoion-apps17: Simple application with welcome page. Shows hostname of ec2 instance.
+# uoion-apps17:
 
-Access-URL: http://<EC2-Public-IP>:8080/apps15/
+Simple application with welcome page. Shows hostname of ec2 instance hostname.
+
+Access-URL: http://EC2-Public-IP:8080/apps17
 
 -----------------------------------------
 Welcome to UOION
